@@ -1,0 +1,54 @@
+Autodan
+Accuracy: 0.6200
+F1 Score: 0.7654
+Precision: 1.0000
+Recall: 0.6200
+
+gcg
+Accuracy: 0.4000
+F1 Score: 0.5714
+Precision: 1.0000
+Recall: 0.4000
+
+Deepinception
+Accuracy: 0.0400
+F1 Score: 0.0769
+Precision: 1.0000
+Recall: 0.0400
+
+ReNellm
+Accuracy: 0.0100
+F1 Score: 0.0198
+Precision: 1.0000
+Recall: 0.0100
+
+GPTFuzz
+Accuracy: 0.8427
+F1 Score: 0.9146
+Precision: 1.0000
+Recall: 0.8427
+
+ICA
+Accuracy: 0.9400
+F1 Score: 0.9691
+Precision: 1.0000
+Recall: 0.9400
+
+Safe
+Accuracy: 0.9783
+F1 Score: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+
+AdvBench
+Accuracy: 1.0000
+F1 Score: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+
+MaliciousInstruct
+Accuracy: 1.0000
+F1 Score: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+
